@@ -4,6 +4,10 @@ header{
     overflow: hidden;
 }
 
+.developing-tag{
+    background: crimson;
+}
+
 .header_container{
     text-align: center;
     height: 100%;

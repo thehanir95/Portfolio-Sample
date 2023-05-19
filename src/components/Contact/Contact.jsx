@@ -32,13 +32,13 @@ const Contact = () => {
           <article className="contact_option">
           <BsWhatsapp className='contact_option-icon'/>
             <h4>Whtsapp</h4>
-            <h5>thehanicis95@gmail.com</h5>
+            <h5>+94 716311705</h5>
             <a href="https://web.whatsapp.com//sennd?phone+94716311705" target='_blank'>Send a message</a>
           </article>
           <article className="contact_option">
           <BsMessenger className='contact_option-icon'/>
-            <h4>Email</h4>
-            <h5>thehanicis95@gmail.com</h5>
+            <h4>Messenger</h4>
+            <h5>TheSam Solutions</h5>
             <a href="thehanicis95@gmail.com" target='_blank'>Send a message</a>
           </article>
         </div>

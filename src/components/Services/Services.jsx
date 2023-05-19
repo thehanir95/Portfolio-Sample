@@ -17,19 +17,27 @@ const Services = () => {
           <ul className='service_list'>
             <li>
               <AiOutlineCheck className='service_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor voluptatibus cum tenetur fuga, ab.</p>
+              <p>You can contact me using whtsapp or put a mail.</p>
             </li>
             <li>
               <AiOutlineCheck className='service_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor voluptatibus cum tenetur fuga,ab.</p>
+              <p>Then you received your requirements under your required system.</p>
             </li>
             <li>
               <AiOutlineCheck className='service_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor voluptatibus cum tenetur fuga,ugiat ab.</p>
+              <p>within 2 weeks I will send a pdf document and Figma style link to you.</p>
             </li>
             <li>
               <AiOutlineCheck className='service_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor voluptatibus cum tenetur fuga, sit fugiat ab.</p>
+              <p>You can view my design and give feedback.</p>
+            </li>
+            <li>
+              <AiOutlineCheck className='service_list-icon'/>
+              <p>Then receive any changing requirements from your side.</p>
+            </li>
+            <li>
+              <AiOutlineCheck className='service_list-icon'/>
+              <p>I will recreate that adding your changes.</p>
             </li>
           </ul>
         </article>
@@ -41,19 +49,27 @@ const Services = () => {
           <ul className='service_list'>
             <li>
               <AiOutlineCheck className='service_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>You can contact me using whtsapp or put a mail.</p>
             </li>
             <li>
               <AiOutlineCheck className='service_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>You can send your requirements document and any created design document(Figma or PDF)</p>
             </li>
             <li>
               <AiOutlineCheck className='service_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>If you are sending a PDF, please send separate document putting color codes if you need for your system.</p>
             </li>
             <li>
               <AiOutlineCheck className='service_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Then I can study your system and give a date for first version release.</p>
+            </li>
+            <li>
+              <AiOutlineCheck className='service_list-icon'/>
+              <p>After receiving your system first version you can view that and give me your feedbacks.</p>
+            </li>
+            <li>
+              <AiOutlineCheck className='service_list-icon'/>
+              <p>If you have any newly changes to exiting system, I will edit the system within new timeline.</p>
             </li>
           </ul>
         </article>
@@ -65,19 +81,27 @@ const Services = () => {
           <ul className='service_list'>
             <li>
               <AiOutlineCheck className='service_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>You can contact me using whtsapp or put a mail.</p>
             </li>
             <li>
               <AiOutlineCheck className='service_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>You can send a detailed document through mail or whtsapp for your system within requirements.</p>
             </li>
             <li>
               <AiOutlineCheck className='service_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Then I can create a content for your system.</p>
             </li>
             <li>
               <AiOutlineCheck className='service_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>After I will send PDF document within newly created interfaces.</p>
+            </li>
+            <li>
+              <AiOutlineCheck className='service_list-icon'/>
+              <p>You can refer that and give any feedbacks about that.</p>
+            </li>
+            <li>
+              <AiOutlineCheck className='service_list-icon'/>
+              <p>If you have satisfaction about my recent projects we can continue web developement of your system.</p>
             </li>
           </ul>
         </article>

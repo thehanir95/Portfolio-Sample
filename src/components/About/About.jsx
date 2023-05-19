@@ -23,14 +23,14 @@ const About = () => {
             <article className='about_card'>
             <BsAward className='about_icon'/>
               <h5>Experience</h5>
-              <small>1+ Months Working</small>
+              <small>1+ Year Working</small>
             </article>
 
-            <article className='about_card'>
+            {/* <article className='about_card'>
             <FiUsers className='about_icon'/>
               <h5>Clients</h5>
               <small>300+ Worldwide</small>
-            </article>
+            </article> */}
 
             <article className='about_card'>
             <AiOutlineFolderOpen className='about_icon'/>

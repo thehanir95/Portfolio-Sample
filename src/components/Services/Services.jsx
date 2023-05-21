@@ -40,6 +40,10 @@ const Services = () => {
               <p>I will recreate that adding your changes.</p>
             </li>
           </ul>
+          <div className='view_projects_container'>
+         <a href="https://projectdesignssite.web.app" target='_blank' className='btn btn-primary'>View Designs</a>
+         </div>
+
         </article>
         <article className='service'>
           <div className='service_head'>
@@ -72,8 +76,12 @@ const Services = () => {
               <p>If you have any newly changes to exiting system, I will edit the system within new timeline.</p>
             </li>
           </ul>
+
+         <div className='view_projects_container'>
+         <a href="https://projectmanagementsystem-b0407.web.app" target='_blank' className='btn btn-primary'>View Projects</a>
+         </div>
         </article>
-        <article className='service'>
+        {/* <article className='service'>
           <div className='service_head'>
             <h3>Content Creation</h3>
           </div>
@@ -104,7 +112,7 @@ const Services = () => {
               <p>If you have satisfaction about my recent projects we can continue web developement of your system.</p>
             </li>
           </ul>
-        </article>
+        </article> */}
       </div> 
     </section>
   )

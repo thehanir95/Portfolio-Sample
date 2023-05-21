@@ -44,7 +44,7 @@ const Experiance = () => {
               <BsFillPatchCheckFill />
               <div>
                 <h4>Tailwind</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Following</small>
               </div>
             </article>
             <article className='experiance_details'>
@@ -58,7 +58,7 @@ const Experiance = () => {
               <BsFillPatchCheckFill />
               <div>
                 <h4>React</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Following</small>
               </div>
             </article>
           </div>

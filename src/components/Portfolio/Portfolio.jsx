@@ -39,8 +39,8 @@ const data = [
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>What I do</h5>
-      <h2>My Projects</h2>
+      <h5>My Recent Work</h5>
+      <h2>Portfolio</h2>
 
       <div className='container portfolio_container'>
         {

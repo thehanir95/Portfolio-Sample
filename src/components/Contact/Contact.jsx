@@ -38,7 +38,7 @@ const Contact = () => {
           <article className="contact_option">
           <BsMessenger className='contact_option-icon'/>
             <h4>Messenger</h4>
-            <h5>TheSam Solutions</h5>
+            <h5>TheSam Solutions - still not available</h5>
             <a href="thehanicis95@gmail.com" target='_blank'>Send a message</a>
           </article>
         </div>

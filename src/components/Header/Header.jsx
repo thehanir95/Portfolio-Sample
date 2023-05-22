@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <header>
       <div className="container header_container">
-        <label className='developing-tag'>Still Developing</label>
+        {/* <label className='developing-tag'>Still Developing</label> */}
         <h5>Hello I'm</h5>
         <h1>Thehani Rathnayaka</h1>
         <h5 className="text-light">Frontend Developer</h5>

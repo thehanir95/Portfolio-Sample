@@ -33,13 +33,14 @@ const Contact = () => {
           <BsWhatsapp className='contact_option-icon'/>
             <h4>Whtsapp</h4>
             <h5>+94 716311705</h5>
-            <a href="https://web.whatsapp.com//sennd?phone+94716311705" target='_blank'>Send a message</a>
+            {/* <a href="https://web.whatsapp.com//sennd?phone+94716311705" target='_blank'>Send a message</a> */}
+            <a href="https://wa.me/+94716311705" target='_blank'>Send a message</a>
           </article>
           <article className="contact_option">
           <BsMessenger className='contact_option-icon'/>
             <h4>Messenger</h4>
             <h5>TheSam Solutions - still not available</h5>
-            <a href="thehanicis95@gmail.com" target='_blank'>Send a message</a>
+            {/* <a href="thehanicis95@gmail.com" target='_blank'>Send a message</a> */}
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>

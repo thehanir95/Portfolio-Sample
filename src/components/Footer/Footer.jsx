@@ -16,11 +16,11 @@ const Footer = () => {
         <li><a href="#contact">Contact</a></li>
       </ul>
 
-      <div className='footer_socials'>
+      {/* <div className='footer_socials'>
         <a href="https://facebook.com"><TbBrandFacebook/></a>
         <a href="https://instagram.com"><TbBrandInstagram/></a>
         <a href="https://twitter.com"><TbBrandTwitter/></a>
-      </div>
+      </div> */}
 
       <div className="footer_copyright">
         <small>&copy; TheSam Solutions.All rights reserved.</small>

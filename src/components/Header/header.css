@@ -67,7 +67,7 @@ font-size: 0.9rem;
 /*media queries(Medium size)*/
 @media screen and (max-width: 1024px) {
    header{
-    height: 68vh;
+    /* height: 68vh; */
    }
 }
 
